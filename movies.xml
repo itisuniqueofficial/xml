@@ -6,9 +6,8 @@
         <rating>6.5</rating>
         <genre>Action, Adventure, Drama</genre>
         <description>An archaeologist investigates the legendary Ram Setu to determine if it's a natural formation or man-made.</description>
-        <poster>https://example.com/posters/ram_setu.jpg</poster>
-        <watch>https://example.com/watch/ram_setu</watch>
-        <download>https://example.com/download/ram_setu</download>
+        <poster>https://upload.wikimedia.org/wikipedia/en/b/b6/Ram-Setu.jpeg</poster>
+        <watch>https://imdb.itisuniqueofficial.com/?id=tt11783766</watch>
     </movie>
 
     <movie>
@@ -17,8 +16,8 @@
         <rating>8.2</rating>
         <genre>Crime, Drama, Mystery</genre>
         <description>Vijay Salgaonkar's story continues as new clues resurface in the murder investigation.</description>
-        <poster>https://example.com/posters/drishyam_2.jpg</poster>
-        <watch>https://example.com/watch/drishyam_2</watch>
+        <poster>https://upload.wikimedia.org/wikipedia/en/9/9e/Drishyam_2_2022_film_poster.jpg</poster>
+        <watch>https://imdb.itisuniqueofficial.com/?id=tt15501640</watch>
     </movie>
 
     <movie>
@@ -27,8 +26,7 @@
         <rating>8.4</rating>
         <genre>Action, Crime, Drama</genre>
         <description>Rocky takes charge of the Kolar Gold Fields and faces new adversaries.</description>
-        <poster>https://example.com/posters/kgf2.jpg</poster>
-        <watch>https://example.com/watch/kgf2</watch>
-        <download>https://example.com/download/kgf2</download>
+        <poster>https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg</poster>
+        <watch>https://imdb.itisuniqueofficial.com/?id=tt10698680</watch>
     </movie>
 </movies>
