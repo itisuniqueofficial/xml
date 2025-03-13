@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <title>Ram Setu</title>
+        <year>2022</year>
+        <rating>6.5</rating>
+        <genre>Action, Adventure, Drama</genre>
+        <description>An archaeologist investigates the legendary Ram Setu to determine if it's a natural formation or man-made.</description>
+        <poster>https://example.com/posters/ram_setu.jpg</poster>
+        <watch>https://example.com/watch/ram_setu</watch>
+        <download>https://example.com/download/ram_setu</download>
+    </movie>
+
+    <movie>
+        <title>Drishyam 2</title>
+        <year>2022</year>
+        <rating>8.2</rating>
+        <genre>Crime, Drama, Mystery</genre>
+        <description>Vijay Salgaonkar's story continues as new clues resurface in the murder investigation.</description>
+        <poster>https://example.com/posters/drishyam_2.jpg</poster>
+        <watch>https://example.com/watch/drishyam_2</watch>
+        <download>https://example.com/download/drishyam_2</download>
+    </movie>
+
+    <movie>
+        <title>K.G.F: Chapter 2</title>
+        <year>2022</year>
+        <rating>8.4</rating>
+        <genre>Action, Crime, Drama</genre>
+        <description>Rocky takes charge of the Kolar Gold Fields and faces new adversaries.</description>
+        <poster>https://example.com/posters/kgf2.jpg</poster>
+        <watch>https://example.com/watch/kgf2</watch>
+        <download>https://example.com/download/kgf2</download>
+    </movie>
+</movies>
