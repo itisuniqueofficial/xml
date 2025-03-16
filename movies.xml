@@ -69,4 +69,24 @@
         <poster>https://upload.wikimedia.org/wikipedia/en/b/b3/Marco_Malayalam_film.jpg</poster>
         <watch>https://imdb.itisuniqueofficial.com/?id=tt29383379</watch>
     </movie>
+
+    <movie>
+        <title>Game Changer</title>
+        <year>2025</year>
+        <rating>5.4</rating>
+        <genre>Action, Adventure, Thriller</genre>
+        <description>An honest IAS officer's fight against a corrupt political system through fair and transparent elections.</description>
+        <poster>https://upload.wikimedia.org/wikipedia/en/6/6a/Game_Changer_Telugu.jpg</poster>
+        <watch>https://imdb.itisuniqueofficial.com/?id=tt14209618</watch>
+    </movie>
+
+    <movie>
+        <title>Game Changer</title>
+        <year>2025</year>
+        <rating>5.4</rating>
+        <genre>Horror, Thriller</genre>
+        <description>A young couple move into a serene row house, eager for peace and privacy. A violent storm and unsettling forces unravel their marriage. Vasanth must uncover the truth behind these supernatural occurrences before everything falls apart.</description>
+        <poster>https://upload.wikimedia.org/wikipedia/en/3/3a/Black_%282024_film%29.jpg</poster>
+        <watch>https://imdb.itisuniqueofficial.com/?id=tt33298502</watch>
+    </movie>
 </movies>
