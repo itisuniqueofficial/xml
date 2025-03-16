@@ -31,12 +31,32 @@
     </movie>
 
     <movie>
-        <title>Chhaava</title>
+        <title>Dhoom Dhaam</title>
         <year>2025</year>
-        <rating>7.9</rating>
+        <rating>6.4</rating>
         <genre>Action, Adventure, Drama, The Great Battel</genre>
-        <description>A historical drama based on the life of Chhatrapati Sambhaji Maharaj, the son of Chhatrapati Shivaji Maharaj.</description>
-        <poster>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0IfyAU2VKhi9idE-H29QfleuY1PmgTbmoKsk9ixU-GtYxSSLL8IUKA2wZ6x6ubTEwg7iQ</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt27922706</watch>
+        <description>Veer Poddar and Koyal Chadda are a mismatched couple, who get into an arranged marriage. A case of mistaken identity forces this newly married couple to go on the run on their wedding night and search for the mysterious "Charlie".</description>
+        <poster>https://upload.wikimedia.org/wikipedia/en/a/a2/Dhoom_Dhaam_2025_film.jpeg</poster>
+        <watch>https://imdb.itisuniqueofficial.com/?id=tt21194868</watch>
+    </movie>
+
+    <movie>
+        <title>Dhoom Dhaam</title>
+        <year>2025</year>
+        <rating>6.4</rating>
+        <genre>Action, Adventure, Drama, The Great Battel</genre>
+        <description>Veer Poddar and Koyal Chadda are a mismatched couple, who get into an arranged marriage. A case of mistaken identity forces this newly married couple to go on the run on their wedding night and search for the mysterious "Charlie".</description>
+        <poster>https://upload.wikimedia.org/wikipedia/en/a/a2/Dhoom_Dhaam_2025_film.jpeg</poster>
+        <watch>https://imdb.itisuniqueofficial.com/?id=tt21194868</watch>
+    </movie>
+
+    <movie>
+        <title>Baby John</title>
+        <year>2024</year>
+        <rating>5.4</rating>
+        <genre>Action, Adventure, Drama, The Great Battel</genre>
+        <description>Revolves around a DCP who transforms and travels to a different place in order to safeguard his family.</description>
+        <poster>https://upload.wikimedia.org/wikipedia/en/2/29/Baby_John_%28title_card%29.jpg</poster>
+        <watch>https://imdb.itisuniqueofficial.com/?id=tt27757805</watch>
     </movie>
 </movies>
