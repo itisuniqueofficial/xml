@@ -7,7 +7,7 @@
         <genre>Action, Adventure, Drama</genre>
         <description>An archaeologist investigates the legendary Ram Setu to determine if it's a natural formation or man-made.</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/b/b6/Ram-Setu.jpeg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt11783766</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt11783766</watch>
     </movie>
 
     <movie>
@@ -17,7 +17,7 @@
         <genre>Crime, Drama, Mystery</genre>
         <description>Vijay Salgaonkar's story continues as new clues resurface in the murder investigation.</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/9/9e/Drishyam_2_2022_film_poster.jpg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt15501640</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt15501640</watch>
     </movie>
 
     <movie>
@@ -27,7 +27,7 @@
         <genre>Action, Crime, Drama</genre>
         <description>Rocky takes charge of the Kolar Gold Fields and faces new adversaries.</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt10698680</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt10698680</watch>
     </movie>
 
     <movie>
@@ -37,7 +37,7 @@
         <genre>Action, Adventure, Drama, The Great Battel</genre>
         <description>Veer Poddar and Koyal Chadda are a mismatched couple, who get into an arranged marriage. A case of mistaken identity forces this newly married couple to go on the run on their wedding night and search for the mysterious "Charlie".</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/a/a2/Dhoom_Dhaam_2025_film.jpeg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt21194868</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt21194868</watch>
     </movie>
 
     <movie>
@@ -47,7 +47,7 @@
         <genre>Action, Adventure, Drama, The Great Battel</genre>
         <description>Veer Poddar and Koyal Chadda are a mismatched couple, who get into an arranged marriage. A case of mistaken identity forces this newly married couple to go on the run on their wedding night and search for the mysterious "Charlie".</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/a/a2/Dhoom_Dhaam_2025_film.jpeg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt21194868</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt21194868</watch>
     </movie>
 
     <movie>
@@ -57,7 +57,7 @@
         <genre>Action, Adventure, Drama, The Great Battel</genre>
         <description>Revolves around a DCP who transforms and travels to a different place in order to safeguard his family.</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/2/29/Baby_John_%28title_card%29.jpg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt27757805</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt27757805</watch>
     </movie>
 
     <movie>
@@ -67,7 +67,7 @@
         <genre>Action, Adventure</genre>
         <description>The adoptive son of the Adattu family, Marco, sets off on a ruthless quest for vengeance after his brother is brutally murdered, finding only betrayal, loss and unimaginable brutality at every step.</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/b/b3/Marco_Malayalam_film.jpg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt29383379</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt29383379</watch>
     </movie>
 
     <movie>
@@ -77,7 +77,7 @@
         <genre>Action, Adventure, Thriller</genre>
         <description>An honest IAS officer's fight against a corrupt political system through fair and transparent elections.</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/6/6a/Game_Changer_Telugu.jpg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt14209618</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt14209618</watch>
     </movie>
 
     <movie>
@@ -87,7 +87,7 @@
         <genre>Action, Sci-fi</genre>
         <description>Kraven's complex relationship with his ruthless father, Nikolai Kravinoff, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/e/ec/Kraven_the_Hunter_%28film%29_poster.jpg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt8790086</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt8790086</watch>
     </movie>
 
     <movie>
@@ -97,6 +97,16 @@
         <genre>Adventure, Musical</genre>
         <description>Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.</description>
         <poster>https://upload.wikimedia.org/wikipedia/en/0/0b/Mufasa_The_Lion_King_Movie_2024.jpeg</poster>
-        <watch>https://imdb.itisuniqueofficial.com/?id=tt13186482</watch>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt13186482</watch>
+    </movie>
+
+    <movie>
+        <title>Crazxy</title>
+        <year>2025</year>
+        <rating>8.0</rating>
+        <genre>Adventure, Action</genre>
+        <description>Abhimanyu Sood. Good surgeon. Bad father. Questionable human being. He is having the worst day of his life.</description>
+        <poster>https://upload.wikimedia.org/wikipedia/en/3/32/Crazxy_poster.jpg</poster>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt13186482</watch>
     </movie>
 </movies>
