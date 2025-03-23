@@ -139,4 +139,44 @@
         <poster>https://upload.wikimedia.org/wikipedia/en/1/1f/Snow_White_%282025_film%29_final_poster.jpg</poster>
         <watch>https://itisuniqueofficial.github.io/imdb/?id=tt6208148</watch>
     </movie>
+
+    <movie>
+        <title>Thandel</title>
+        <year>2025</year>
+        <rating>5.9/rating>
+        <genre>Action, Adventure, Romance, Thriller</genre>
+        <description>An action drama about a fisherman in Srikakulam who gets caught by the Pakistan forces in international waters.</description>
+        <poster>https://upload.wikimedia.org/wikipedia/en/f/f0/Thandel_film.JPG</poster>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt27907811</watch>
+    </movie>
+
+    <movie>
+        <title>Salaar</title>
+        <year>2023</year>
+        <rating>6.6/rating>
+        <genre>Action, Epic, One Person Army, Crime, Drama, Thriller</genre>
+        <description>The fate of a violently contested kingdom hangs on the fraught bond between two friends-turned-foes in this saga of power, bloodshed and betrayal.</description>
+        <poster>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtQSqEa4q8Fq9xp7zSfTfoTlMK7j_xKCdDqGsak3H1xwQNetlVi2x0GzDT5R_K8alxzaY0</poster>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt13927994</watch>
+    </movie>
+
+    <movie>
+        <title>Officer on Duty</title>
+        <year>2025</year>
+        <rating>7.6/rating>
+        <genre>Thriller</genre>
+        <description>A demoted police inspector investigates a counterfeit jewelry racket, becoming entangled in a dangerous web of crime that puts his life at stake.</description>
+        <poster>https://upload.wikimedia.org/wikipedia/en/8/86/Officer_on_Duty.jpg</poster>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt34388152</watch>
+    </movie>
+
+    <movie>
+        <title>Dragon</title>
+        <year>2025</year>
+        <rating>8.1/rating>
+        <genre>Comedy, Drama, Romance</genre>
+        <description>After a devastating breakup, troubled student Ragavan abandons his studies and enters the dangerous world of financial fraud, pursuing wealth and power while becoming entangled in escalating deception.</description>
+        <poster>https://upload.wikimedia.org/wikipedia/en/0/0f/Dragon_2025_poster.jpg</poster>
+        <watch>https://itisuniqueofficial.github.io/imdb/?id=tt32080876</watch>
+    </movie>
 </movies>
